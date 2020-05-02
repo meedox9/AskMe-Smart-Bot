@@ -4,14 +4,14 @@ This is a discord bot that prints out information about something or someone whe
 
 For more information, see this [tutorial video](https://www.youtube.com/watch?v=hmDtaKPTyb4&t=20s) 
 
-**Usage**
+##Usage
 
-Prefix: '+'
-Commands: 
+Prefix: '+'  
+Commands:   
 +whatis [Target]
 +link [Target]
 
 
-**Example**
+##Example
 
 ![example](https://user-images.githubusercontent.com/57116563/80855877-f66f2300-8c12-11ea-889b-12d4bd44a251.png)
