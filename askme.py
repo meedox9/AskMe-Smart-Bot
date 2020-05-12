@@ -5,7 +5,7 @@ import random
 
 #bot prefix, '+' to initiate bot
 bot = commands.Bot(command_prefix = '+')
-Token = 'YOUR TOKEN GOES HERE' #See: https://discordapp.com/login?redirect_to=%2Fdevelopers%2Fapplications
+Token = 'lhS5v9NJ9ebBl2CFbLc0cwCSCFGIuqBj' #See: https://discordapp.com/login?redirect_to=%2Fdevelopers%2Fapplications
 
 
 #message signifying the bot is online and ready 
@@ -60,4 +60,4 @@ async def tellmeajoke(context):
 
 
 #runs bot
-bot.run(Token)
+bot.run("Njk4NzA0MDk2NTQ2MjU5MDA3.XrZM6A.e81uPukByJbzYsfgyr7PLyao18s")
