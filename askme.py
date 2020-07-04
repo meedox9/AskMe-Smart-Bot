@@ -20,9 +20,9 @@ async def scream(context):
         await context.send('AAAAAAAAAHHHHHHHHHHHHHH')
 
 
-##################
-# Smart commands #
-##################
+###################
+# Smart commands? #
+###################
 
 #To produce a title and a link to the wikipedia page of a target  
 @bot.command()
